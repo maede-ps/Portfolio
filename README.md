@@ -1,6 +1,6 @@
-# Portfolio Project
+# Portfolio
 
-a Portfolio website developed by next.js, tailwind css, swiper and framer motion
+a porfolio website built by next.js, tailwind css, swiper and framer motion✨
 
 ## Installation
 
